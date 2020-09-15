@@ -1,3 +1,7 @@
 # 14-18sept-WeeklyAss-
- Completed the basic concept like creating a clock and building a graph.
+Totally 5 Topics have been Covered by the end of 18-09-2020 
+They are
+Basics-->GameObjects and Scripts,Building a Graph,Mathematical Surfaces,Constructing a Fractal
+Movements-->Sliding A Shpere
+
  
